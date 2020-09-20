@@ -11,4 +11,7 @@ Esse projeto simples tem como objetivo aplicar os conceitos de FlexBox e Respons
 - HTML5
 - CSS3
 
+## Licença
+LICENSE
+https://github.com/Everton-Victor/Clonando-Interface-Instagram/blob/master/LICENSE
 
