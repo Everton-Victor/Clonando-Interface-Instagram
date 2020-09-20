@@ -4,7 +4,7 @@ Esse projeto simples tem como objetivo aplicar os conceitos de FlexBox e Respons
 ###### O foco é apenas aplicar os conceitos mencionados e não clonar uma cópia exata do Instagram.
 
 ## Tela de Login clonada 
-![](capturaTela\capturaTelaLogin.PNG);
+![](capturaTela/capturaTelaLogin.PNG)
 
 
 ## Tecnologias usadas 🚀
